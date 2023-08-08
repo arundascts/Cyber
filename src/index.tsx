@@ -1,6 +1,6 @@
 import { NativeModules } from 'react-native';
 
-const ReactNativeCyber = NativeModules.RCTReactNativeCyber;
+const ReactNativeCyber = NativeModules.ReactNativeCyber;
 
     export const makeReservation = (
       ccKey: string, 
