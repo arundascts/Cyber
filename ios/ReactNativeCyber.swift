@@ -10,8 +10,8 @@ import UIKit
 import flex_api_ios_sdk
 import React
 
-@objc(RCTCybersourceModule)
-class RCTCybersourceModule: NSObject {
+@objc(ReactNativeCyber)
+class ReactNativeCyber: NSObject {
     // ... (existing code remains the same)
 
     // Define a PaymentInfo struct to hold the payment details
