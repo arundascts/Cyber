@@ -12,9 +12,9 @@ import Foundation
     The API credentials have been included in this sample mobile application for demonstration purposes only,
     and to provide a encapsulated demo.  The Credentials must be removed for the final application build.
  */
-let merchantId = "testrest"
-let merchantKey = "08c94330-f618-42a3-b09d-e1e43be5efda"
-let merchantSecret = "yBJxy6LjM2TmcPGu+GaJrHtkke25fPpUX+UY6/L/1tE="
+let merchantId = "reg100levi"
+let merchantKey = "7aa9d362-4794-49df-be7b-3fde513809d8"
+let merchantSecret = "azmNU6cYeaXG5wpb+U/xHJozNai/dxflE2cm9u7TVow="
 
 
 /*
